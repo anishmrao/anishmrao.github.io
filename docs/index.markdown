@@ -11,7 +11,7 @@ My name is Anish M Rao and I am an AI Engineer based in Singapore.
 
 ## Curium (Early-stage sensing applications startup), Singapore
 
-**Machine Learning Engineer | Feb 2023 - Present**
+**Machine Learning Engineer [Feb 2023 - Present]**
 
 - Spearheaded the development of a 3D point cloud based Object Detection network for Human Sensing from overhead LiDAR sensors and
 achieved an Average Precision of 0.85
@@ -21,7 +21,7 @@ a 15% speed-up in inference time
 
 ## Agency for Science, Technology and Research (A*STAR), Singapore
 
-**Student Attachment | Nov 2022 - May 2023**
+**Student Attachment [Nov 2022 - May 2023]**
 
 - Developed a soft probability based ensembling technique for cross-subject Motor Imagery decoding from EEG signals for non-invasive
 Brain-Computer Interfaces. Achieved a 2% increase in average accuracy over subject-specific models
@@ -30,7 +30,7 @@ experiments - LINK
 
 ## Intuit Bangalore, India
 
-**Software Engineer II | Jan 2020 - Jul 2022**
+**Software Engineer II [Jan 2020 - Jul 2022]**
 
 - Designed React components for customer marketing on the TurboTax frontpage and conducted A/B testing to increase user sign-ups by 20%
 during my tenure
@@ -41,7 +41,7 @@ collaborative filtering
 
 ## Indian Academy of Sciences Hyderabad, India
 
-**Summer Research Fellowship | Jun 2019 - Aug 2019**
+**Summer Research Fellowship [Jun 2019 - Aug 2019]**
 
 - Extracted handwritten Telugu characters using connected-components based segmentation to produce the most extensive dataset for offline
 handwritten Telugu characters
@@ -50,7 +50,7 @@ compared to vanilla CNN models. This work was published in an IEEE conference - 
 
 ## JNResearch (Early-stage fintech startup) Bangalore, India
 
-**Research Intern | Jun 2018 - Aug 2018**
+**Research Intern [Jun 2018 - Aug 2018]**
 
 - Trained and tested a robust Region Proposal Network for a Faster R-CNN model for word segmentation on printed documents, used for invoice
 processing and achieved 98% recall on unseen invoices
@@ -61,14 +61,14 @@ Python
 
 ## Nanyang Technological University, Singapore
 
-**Master of Science in Artificial Intelligence | Aug 2022 - Dec 2023** 
+**Master of Science in Artificial Intelligence [Aug 2022 - Dec 2023]** 
 
 *Coursework:* Advanced Computer Vision, Neuro Evolution and Fuzzy Intelligence, Machine Learning,
 Intro to Artificial Intelligence, Deep Learning and Applications, Mathematics for AI, Urban Computing
 
 ## PES University Bangalore, India
 
-**Bachelor of Technology in Computer Science and Engineering | Specialization: Data Science | Aug 2016 - Jul 2020**
+**Bachelor of Technology in Computer Science and Engineering, Specialization: Data Science [Aug 2016 - Jul 2020]**
 
 *Coursework:* Advanced Algorithms, Data Structures, Object Oriented Modeling and Design, Operating Systems,
 Topics in Deep Learning, Natural Language Processing, Image Processing, Data Analytics
